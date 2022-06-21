@@ -1,0 +1,22 @@
+{
+  "name": "typescript-cheatsheets",
+  "version": "1.0.0",
+  "description": "Cheatsheet for the TypeScript for beginners and professionals",
+  "main": "intex.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzalKhadka/TypeScript-cheatsheets.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Ujjal Khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UzalKhadka/TypeScript-cheatsheets/issues"
+  },
+  "homepage": "https://github.com/UzalKhadka/TypeScript-cheatsheets#readme"
+}
